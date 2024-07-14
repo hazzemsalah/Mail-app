@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "417308761583",
+    "project_id": "my-mail-app-6b6a1",
+    "storage_bucket": "my-mail-app-6b6a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417308761583:android:4a6a0080fd3125d8e62a1a",
+        "android_client_info": {
+          "package_name": "com.example.u_11_mail_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1WBZ7xWcJwyW9avwS0sXhj8XhDZ_UkYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
