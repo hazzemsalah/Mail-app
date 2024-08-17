@@ -1,16 +1,2 @@
-# _11_mail_app
+The "Mail App" repository on GitLab hosts a mobile application that leverages Firebase for secure authentication and message storage. Designed to provide a personalized email experience, the app ensures each user accesses their own messages in a customized inbox upon login. It integrates HTTP package for real-time internet connectivity checks, displaying notifications when offline and maintaining access to cached messages. Persistent login functionality keeps users logged in across sessions, enhancing convenience. Developed with Flutter, the app emphasizes usability and reliability, catering to seamless communication under varying network conditions
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
